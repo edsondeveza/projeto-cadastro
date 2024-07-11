@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "cadstro cliente"
+version = "0.1.0"
+description = "Este projeto é um aplicativo web desenvolvido com Streamlit para consulta e exibição de clientes cadastrados a partir de um arquivo CSV. O projeto foi inspirado na aula \"Desenvolvendo aplicações Web com Streamlit - Projeto prático\" ministrada pelo professor Vinícius Rocha Lima da Empowerdata, com melhorias e adaptações adicionais."
+authors = ["Edson Deveza <edsondeveza@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.2"
+streamlit = "^1.36.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
