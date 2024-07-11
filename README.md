@@ -1,4 +1,4 @@
-# Consulta de Clientes usando Streamlit e Pandas
+# Cadastro e Consulta de Clientes usando Streamlit e Pandas
 
 Este projeto é um aplicativo web desenvolvido com Streamlit para consulta e exibição de clientes cadastrados a partir de um arquivo CSV. O projeto foi inspirado na aula "Desenvolvendo aplicações Web com Streamlit - Projeto prático" ministrada pelo professor Vinícius Rocha Lima da Empowerdata, com melhorias e adaptações adicionais realizadas com o auxílio do ChatGPT.
 
