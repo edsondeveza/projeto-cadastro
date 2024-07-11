@@ -57,7 +57,3 @@ Para executar este projeto localmente, siga os passos abaixo:
 ## Contribuições
 
 Contribuições são bem-vindas! Para sugestões ou correções, por favor abra uma issue ou envie um pull request.
-
----
-
-Licença [MIT](LICENSE)
