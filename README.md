@@ -21,27 +21,32 @@ Este projeto é um aplicativo web desenvolvido com Streamlit para consulta e exi
 Para executar este projeto localmente, siga os passos abaixo:
 
 1. **Clone o Repositório**:
+
     ```bash
     git clone https://github.com/edsondeveza/projeto-cadastro.git
     cd projeto-cadastro
     ```
 
 2. **Instale o Poetry** (caso não tenha instalado):
+
     ```bash
     curl -sSL https://install.python-poetry.org | python3 -
     ```
 
 3. **Instale as Dependências**:
+
     ```bash
     poetry install
     ```
 
 4. **Ative o Ambiente Virtual**:
+
     ```bash
     poetry shell
     ```
 
 5. **Execute o Aplicativo**:
+
     ```bash
     streamlit run consulta_clientes.py
     ```
@@ -52,7 +57,6 @@ consulta_clientes.py    # Arquivo principal do aplicativo
 clientes.csv            # Arquivo CSV com dados dos clientes
 README.md               # Documentação do projeto
 pyproject.toml          # Arquivo de configuração do Poetry com as dependências do projeto.
-
 
 ## Contribuições
 
