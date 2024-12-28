@@ -53,15 +53,11 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 ## Estrutura do Projeto
 
-consulta_clientes.py    # Arquivo principal do aplicativo
-clientes.csv            # Arquivo CSV com dados dos clientes
-README.md               # Documentação do projeto
-pyproject.toml          # Arquivo de configuração do Poetry com as dependências do projeto.
+* consulta_clientes.py   ---> Arquivo principal do aplicativo
+* clientes.csv           ---> Arquivo CSV com dados dos clientes
+* README.md              ---> Documentação do projeto)
+* pyproject.toml         ---> Arquivo de configuração do Poetry com as dependências do projeto)
 
 ## Contribuições
 
 Contribuições são bem-vindas! Para sugestões ou correções, por favor abra uma issue ou envie um pull request.
-
----
-
-Licença [MIT](LICENSE)
